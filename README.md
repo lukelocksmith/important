@@ -43,6 +43,7 @@ Nasze narzędzia, stack technologiczny i standardy.
 Planowanie, ekonomia i strategia rozwoju.
 
 - [Plan Rozwoju](/docs/business/development-roadmap.md)
+- [Struktura Zespołu](/docs/business/team-structure.md)
 - [Model Ekonomiczny](/docs/business/economics.md)
 - [Microeconomics - Projekty](/docs/business/microeconomics.md)
 - [Macroeconomics - Agencja](/docs/business/macroeconomics.md)
@@ -53,8 +54,6 @@ Gotowe szablony do wykorzystania w codziennej pracy.
 
 - [Propozycje dla Klienta](/docs/templates/proposal-template.md)
 - [Brief Projektowy](/docs/templates/project-brief.md)
-- [Raport Postępu](/docs/templates/progress-report.md)
-- [Dokumentacja Techniczna](/docs/templates/technical-documentation.md)
 
 ## 🎯 O important.is
 
